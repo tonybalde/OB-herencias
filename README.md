@@ -1,1 +1,1 @@
-# OB-herencias
+# Ejercicio de herencias de Open Bootcamp
